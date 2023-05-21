@@ -1,0 +1,64 @@
+Arrays Method :
+
+    push() - Adds an element to the end of the array.
+    pop() - Removes the last element from the array.
+    shift() - Removes the first element from the array.
+    unshift() - Adds an element to the beginning of the array.
+
+
+    slice() - Creates a new array that contains a subset of the elements from the original array.   
+    filter() - Creates a new array that contains only the elements of the original array that meet a certain criteria.
+    map() - Creates a new array that contains the results of applying a function to each element of the original array.
+
+    reduce() - Reduces the elements of the array to a single value by applying a function to each element.
+
+
+    sort() - Sorts the elements of the array in ascending order.
+    reverse() - Reverses the order of the elements in the array.
+
+    includes() - Returns true if the array contains a certain value.
+    join() - Converts the array to a string by joining the elements with a certain separator.
+
+    toLocaleString() - Converts the array to a string in the local language.
+    toString() - Converts the array to a string.
+    toJSON() - Converts the array to a JSON object.
+
+  
+    fill() - Fills the array with a certain value.
+    find() - Returns the first element of the array that meets a certain criteria.
+
+
+Prototype Inheritance
+    Creating own prototypical
+    Resetting constructor
+    Calling Super constructor
+
+JS Advance
+    Closures
+    ES 6
+    Destructure
+    Getter and Setter
+    Scoping and scope chaining
+
+Asynchronous function
+    JSON
+    Ajax intro
+    setTimeout, setInterval
+    js fetch
+    Async await and try catch
+    Promise, Promise.all
+    Axios
+    JS currying
+
+How JS works
+    Event Loop, IIFE
+    JS changing this (call, bind and appy)
+
+DOM Manipulation
+    DOM Model
+    DOM Selector
+    DOM Events
+    Event bubbling, capturing and propagation
+    Creating and addting html tags using js
+    
+ 
