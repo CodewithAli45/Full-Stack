@@ -17,8 +17,8 @@ function displayTask() {
 
     tasks.forEach((task, index) => {
         let taskNumber = index + 1;
-        let listItem = document.createElement('li');
-        list.textContent = taskNumber + ". " + task;
+        let listItem = document.createElement('p');
+        list.textContent += taskNumber + ". " + task;
         list.appendChild(listItem);
     })
 }
